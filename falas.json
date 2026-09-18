@@ -1,0 +1,2617 @@
+[
+ {
+  "id": "gp_hup8oy",
+  "texto": "Toque primeiro na primeira letra da palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1efed8b",
+  "texto": "O Grandão e o Pequenininho. Trinta e cinco folhas sobre o tamanho das palavras: a do pequenininho e a do grandão. Escreva o seu nome ali embaixo e toque em Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_97z4bj",
+  "texto": "Aumentativo: a palavra do grandão. Por exemplo, sorvetão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3yu7xl",
+  "texto": "Diminutivo: a palavra do pequenininho. Por exemplo, sorvetinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1hrpioo",
+  "texto": "Grau normal: a palavra do tamanho de sempre. Por exemplo, sorvete.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tfqqvn",
+  "texto": "Isso mesmo! Um anel pequeno é um anelzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ftif9o",
+  "texto": "Muito bem! Um botão pequeno é um botãozinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ekxaxz",
+  "texto": "Você acertou! Um funil pequeno é um funilzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1xasixn",
+  "texto": "Boa! Uma folha pequena é uma folhinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_leo5ex",
+  "texto": "Exatamente! Uma panela pequena é uma panelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ra929b",
+  "texto": "É isso aí! Uma flor pequena é uma florzinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1qfwkdc",
+  "texto": "Isso mesmo! O pequenininho de folha é folhinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1xe086t",
+  "texto": "Muito bem! O pequenininho de elefante é elefantinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_13dj3y9",
+  "texto": "Você acertou! O pequenininho de botão é botãozinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lh6e43",
+  "texto": "Boa! O pequenininho de panela é panelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1fokj90",
+  "texto": "Exatamente! O pequenininho de anel é anelzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1m4dj49",
+  "texto": "É isso aí! O pequenininho de funil é funilzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_x6e7b3",
+  "texto": "Isso mesmo! Casinha só ganhou o INHO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_17ps1j7",
+  "texto": "Muito bem! Anelzinho precisou do Z.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1c8dcau",
+  "texto": "Você acertou! Gatinho só ganhou o INHO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jwq15c",
+  "texto": "Boa! Florzinha precisou do Z.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_10l7nkk",
+  "texto": "Exatamente! Mesinha só ganhou o INHO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_n26izy",
+  "texto": "É isso aí! Papelzinho precisou do Z.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_102oudz",
+  "texto": "Isso mesmo! As de coisa pequena são casinha, bolinha, gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_10zctq3",
+  "texto": "Muito bem! As de coisa pequena são mesinha, patinho, livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_iegrnu",
+  "texto": "Você acertou! As de coisa pequena são florzinha, anelzinho, ursinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_icbuec",
+  "texto": "Isso mesmo! Um gato grande é um gatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_89dpiz",
+  "texto": "Muito bem! Um sapo grande é um sapão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_iib8ts",
+  "texto": "Você acertou! Um bolo grande é um bolão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_4r625z",
+  "texto": "Boa! Um livro grande é um livrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_h5arlx",
+  "texto": "Exatamente! Um rato grande é um ratão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_cptum0",
+  "texto": "É isso aí! Um carro grande é um carrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zj7wln",
+  "texto": "Isso mesmo! Uma porta grande é um portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_9wp6wr",
+  "texto": "Muito bem! Um copo grande é um copão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_kfhy2n",
+  "texto": "Você acertou! Uma mesa grande é um mesão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16i014n",
+  "texto": "Boa! Um prato grande é um pratão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_hhlrwq",
+  "texto": "Exatamente! Uma panela grande é um panelão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_hahc6w",
+  "texto": "É isso aí! Um sapato grande é um sapatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1tlrgmp",
+  "texto": "Isso mesmo! A casa mais pequena das três. Casinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zwh32w",
+  "texto": "Muito bem! A casa do meio: o tamanho de sempre. Casa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1r7wr9d",
+  "texto": "Você acertou! A casa maior das três. Casarão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lg207r",
+  "texto": "Boa! O livro mais fino dos três. Livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_hob3u0",
+  "texto": "Exatamente! O livro do meio: o tamanho de sempre. Livro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2glhf8",
+  "texto": "É isso aí! O livro maior dos três. Livrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_pme2n6",
+  "texto": "Isso mesmo! O gato, quando é grande, é gatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_es24f3",
+  "texto": "Muito bem! A casa, quando é pequena, é casinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_wdjvh2",
+  "texto": "Você acertou! O livro, quando é grande, é livrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_v4t888",
+  "texto": "Boa! A flor, quando é pequena, é florzinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_qyursz",
+  "texto": "Exatamente! A panela, quando é grande, é panelão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1plrlq4",
+  "texto": "É isso aí! O sapo, quando é pequeno, é sapinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_iy0ze2",
+  "texto": "Isso mesmo! Gatinho, gato, gatão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ts2zj9",
+  "texto": "Muito bem! Casinha, casa, casarão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_6g0p59",
+  "texto": "Você acertou! Livrinho, livro, livrão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1k71dml",
+  "texto": "Boa! Panelinha, panela, panelão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1l37feq",
+  "texto": "Exatamente! Mesinha, mesa, mesão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1481eh2",
+  "texto": "Isso mesmo! O sapo pequeno é o sapinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_uy3qex",
+  "texto": "Muito bem! O gato pequeno é o gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1itv8uq",
+  "texto": "Você acertou! O bolo pequeno é o bolinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1a2iv5h",
+  "texto": "Boa! O sapato pequeno é o sapatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_15cngzy",
+  "texto": "Isso mesmo! O bebê dorme numa cama bem pequena: uma caminha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_koh782",
+  "texto": "Muito bem! A Bia ganhou um carro de brinquedo: um carrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cocs3t",
+  "texto": "Você acertou! No jardim nasceu uma flor bem miúda: uma florzinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_31or8c",
+  "texto": "Boa! O gato da vizinha ainda é filhote: é um gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1e79lju",
+  "texto": "Exatamente! A vovó guardou o café numa panela pequena: numa panelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cn1w5e",
+  "texto": "É isso aí! O livro de bolso é pequeno: é um livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_334bfz",
+  "texto": "Isso mesmo! A turma comeu um bolão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1wjq2hl",
+  "texto": "Muito bem! O zelador abriu o portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_13epk9h",
+  "texto": "Você acertou! Apareceu um ratão na tela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_f27bcz",
+  "texto": "Boa! Coube todo mundo no mesão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ncmgxj",
+  "texto": "Exatamente! O palhaço calçou um sapatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1g11cx2",
+  "texto": "É isso aí! O menino pediu um copão de suco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_e0cd1d",
+  "texto": "Isso mesmo! O menino tem um gato pequeno. O menino tem um gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1dkrjub",
+  "texto": "Muito bem! A escola tem uma porta grande. A escola tem um portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1txk245",
+  "texto": "Você acertou! A Ana leu um livro pequeno. A Ana leu um livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_8ugeqn",
+  "texto": "Boa! Na cozinha tem uma panela grande. Na cozinha tem um panelão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_hrzjyt",
+  "texto": "Exatamente! No vaso nasceu uma flor pequena. No vaso nasceu uma florzinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1bvk25i",
+  "texto": "Muito bem! As palavras eram casinha, portãozinho, mesinha, cachorrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1a2st9p",
+  "texto": "Muito bem! As palavras eram portão, panelão, bolão, cachorrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_piy3n4",
+  "texto": "Muito bem! As palavras eram ovinho, bolinho, gatinho, casinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_z93v39",
+  "texto": "Isso mesmo! Achou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ku1apm",
+  "texto": "Muito bem! Achou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1r85tch",
+  "texto": "Você acertou! Achou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1gpoxli",
+  "texto": "Boa! Achou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_cmqzl0",
+  "texto": "Exatamente! Achou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xmdp21",
+  "texto": "É isso aí! Achou.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jvrutc",
+  "texto": "Isso mesmo! Um sapato pequeno é um… Sapatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vipaia",
+  "texto": "Muito bem! Uma mesa grande é um… Mesão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1mwpg8t",
+  "texto": "Você acertou! Um carro de brinquedo é um… Carrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ie0w1g",
+  "texto": "Boa! Uma porta bem grande é um… Portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xm3hgv",
+  "texto": "Exatamente! Uma bola pequena é uma… Bolinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1qqzvaz",
+  "texto": "É isso aí! Um rato enorme é um… Ratão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tifzx5",
+  "texto": "Isso mesmo! Gatinho fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1u25mv5",
+  "texto": "Muito bem! Portão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1l47z2o",
+  "texto": "Você acertou! Bolinha fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_9ctgvp",
+  "texto": "Boa! Livrão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_eq9zh2",
+  "texto": "Exatamente! Copinho fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_6u27fw",
+  "texto": "É isso aí! Sapatão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_15tya10",
+  "texto": "Isso mesmo! O sapo grande é o sapão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jd0daz",
+  "texto": "Muito bem! O gato grande é o gatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ksng4w",
+  "texto": "Você acertou! O bolo grande é o bolão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_sk8b5j",
+  "texto": "Boa! O sapato grande é o sapatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_p7cvn8",
+  "texto": "Isso mesmo! Casinha fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_19h9wb9",
+  "texto": "Muito bem! Casa é do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cwgg35",
+  "texto": "Você acertou! Casarão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_39gnx5",
+  "texto": "Boa! Livrinho fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_188rm51",
+  "texto": "Exatamente! Livro é do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_156oq2i",
+  "texto": "É isso aí! Livrão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vnzoq1",
+  "texto": "Isso mesmo! Janelinha fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_x68l9q",
+  "texto": "Muito bem! Panelão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1eurx86",
+  "texto": "Você acertou! Prato é do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1561am3",
+  "texto": "Boa! Florzinha fala de uma coisa pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_149iibl",
+  "texto": "Exatamente! Mesa é do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1fnz2g3",
+  "texto": "É isso aí! Cadeirão fala de uma coisa grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_21e5c5",
+  "texto": "Isso mesmo! Janelinha vem de janela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3w0je3",
+  "texto": "Muito bem! Casarão vem de casa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_9i9t75",
+  "texto": "Você acertou! Portinha vem de porta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16x9lyy",
+  "texto": "Boa! Gatão vem de gato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1psju9w",
+  "texto": "Exatamente! Panelinha vem de panela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ww7g0l",
+  "texto": "É isso aí! Livrão vem de livro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_m8bbd5",
+  "texto": "Isso mesmo! Gatão vem de gato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_j0qcca",
+  "texto": "Muito bem! Casinha vem de casa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jbojkt",
+  "texto": "Você acertou! Livrão vem de livro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1i045bq",
+  "texto": "Boa! Panelinha vem de panela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_10le5gm",
+  "texto": "Exatamente! Portão vem de porta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_sl37i3",
+  "texto": "Isso mesmo! A palavra é sua e está no tamanho certo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1539mqs",
+  "texto": "Muito bem! A palavra é sua e está no tamanho certo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_88ndwx",
+  "texto": "Isso mesmo! Gatinho é a palavra do pequenininho: chama-se diminutivo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_53dmcn",
+  "texto": "Muito bem! Gato é a palavra do tamanho de sempre: o grau normal.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_874o7n",
+  "texto": "Você acertou! Gatão é a palavra do grandão: chama-se aumentativo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rcp5zn",
+  "texto": "Boa! Florzinha é a palavra do pequenininho: chama-se diminutivo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_np8el",
+  "texto": "Exatamente! Portão é a palavra do grandão: chama-se aumentativo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_evn6af",
+  "texto": "É isso aí! Livro é a palavra do tamanho de sempre: o grau normal.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2vc02b",
+  "texto": "Isso mesmo! Um sapo bem pequeno. Sapinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_mtn6cu",
+  "texto": "Muito bem! Um sapo bem grande. Sapão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_6r1jtz",
+  "texto": "Você acertou! Um gato bem pequeno. Gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xajzlu",
+  "texto": "Boa! Um gato bem grande. Gatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_17l51yq",
+  "texto": "Exatamente! Um bolo bem pequeno. Bolinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jwpsod",
+  "texto": "É isso aí! Um bolo bem grande. Bolão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nilt20",
+  "texto": "Isso mesmo! O filhote do leão é o leãozinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2qtas2",
+  "texto": "Muito bem! O filhote do gato é o gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1oofumx",
+  "texto": "Você acertou! O filhote do rato é o ratinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_11zytj2",
+  "texto": "Boa! O filhote do urso é o ursinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ho947g",
+  "texto": "Exatamente! O filhote do sapo é o sapinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_bcvzvk",
+  "texto": "Isso mesmo! O pequenininho de cachorro é cachorrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ltep1w",
+  "texto": "Você acertou! O pequenininho de pássaro é passarinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_14mhk37",
+  "texto": "Boa! O pequenininho de cobra é cobrinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_qnobtt",
+  "texto": "Exatamente! O pequenininho de girafa é girafinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1e7xa31",
+  "texto": "Isso mesmo! O filhote do gato é o gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1qc9x4i",
+  "texto": "Muito bem! O filhote do rato é o ratinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1xzgfax",
+  "texto": "Você acertou! O filhote do urso é o ursinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rgdipq",
+  "texto": "Boa! O filhote do sapo é o sapinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1vwmgdk",
+  "texto": "Isso mesmo! Uma bola pequena é uma bolinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_6ijnkn",
+  "texto": "Muito bem! Uma casa pequena é uma casinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yrvpng",
+  "texto": "Você acertou! Uma mesa pequena é uma mesinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_u65lhx",
+  "texto": "Boa! Um sapato pequeno é um sapatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1qqa7dz",
+  "texto": "Exatamente! Um livro pequeno é um livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1rf3xy2",
+  "texto": "É isso aí! Um carro pequeno é um carrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jt2zpk",
+  "texto": "Isso mesmo! Uma janela pequena é uma janelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_sy2zxz",
+  "texto": "Muito bem! Uma panela pequena é uma panelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_15r30jg",
+  "texto": "Você acertou! Uma porta pequena é uma portinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1546u8r",
+  "texto": "Boa! Uma cadeira pequena é uma cadeirinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_9tunc7",
+  "texto": "Exatamente! Um copo pequeno é um copinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1j4a5tm",
+  "texto": "É isso aí! Um prato pequeno é um pratinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ou6tm0",
+  "texto": "Isso mesmo! Uma casa pequena é uma casinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_92ptzr",
+  "texto": "Muito bem! Uma bola pequena é uma bolinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tkiwhe",
+  "texto": "Você acertou! Um livro pequeno é um livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_18t83x7",
+  "texto": "Boa! Uma panela pequena é uma panelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xe865j",
+  "texto": "Exatamente! Um gato pequeno é um gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1e0n5bc",
+  "texto": "o pequenininho de CASA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1e1hebc",
+  "texto": "o pequenininho de BOLA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1dxtgh1",
+  "texto": "o pequenininho de GATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1donmlu",
+  "texto": "o pequenininho de PATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1e0onvv",
+  "texto": "o pequenininho de COPO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_inyfsm",
+  "texto": "o pequenininho de LIVRO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_c3k1v3",
+  "texto": "o grandão de PORTA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_31oqx6",
+  "texto": "o grandão de GATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_k4anqx",
+  "texto": "o grandão de LIVRO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2nl7x6",
+  "texto": "o grandão de SAPO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2ytjic",
+  "texto": "o grandão de COPO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2rsvkd",
+  "texto": "o grandão de MESA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1blwqsg",
+  "texto": "o grandão de PANELA.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2mytzz",
+  "texto": "o grandão de RATO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1o744h3",
+  "texto": "Um sapato pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ifgxsa",
+  "texto": "Uma mesa grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_pjtubf",
+  "texto": "Um carro de brinquedo é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_b2pnmq",
+  "texto": "Uma porta bem grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_7v44x",
+  "texto": "Uma bola pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1x7qrss",
+  "texto": "Um rato enorme é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tntfqo",
+  "texto": "Diga as duas em voz alta. Uma delas não existe: a gente nunca fala assim. A que existe tem um Z no meio, ou não tem?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1h6pw5w",
+  "texto": "Diga o nome da figura e depois cada palavra do lado direito. Só uma começa igual.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nv5vhg",
+  "texto": "Diga a palavra devagar. Você ouve um zê antes do fim, ou não?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_7gvaps",
+  "texto": "Pergunte, uma por uma: existe a coisa grande dela? Existe casa, e a casinha é a casa pequena. Mas não existe rã que vire rainha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_m864g5",
+  "texto": "Olhe o desenho maior. O nome dele termina com um som forte, de boca aberta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1dkdh7a",
+  "texto": "Diga a palavra como se a coisa fosse enorme. Escute o fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_f228ak",
+  "texto": "O fim do grandão tem um til em cima: é o mesmo de todos eles.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_i9240t",
+  "texto": "Conte as casinhas e diga a palavra bem devagar, letra por letra. Comece pelo começo da palavra que está na frase.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_9ajely",
+  "texto": "Olhe o tamanho do desenho e diga a palavra em voz alta. Elas não combinam ainda.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_195i5qi",
+  "texto": "Leia de novo o que a linha pede: é o pequeno ou o grande? Depois olhe o fim de cada palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_d8ki0c",
+  "texto": "Olhe o desenho menor. O nome dele fica mais comprido, e o fim muda.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_846nny",
+  "texto": "Diga a palavra devagar, como se estivesse falando com um bebê. O fim aparece sozinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1dltovk",
+  "texto": "Pense no filhote do bicho: é assim que a palavra fica quando a coisa é pequena.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1v8lxwe",
+  "texto": "Leia as duas em voz alta. Uma fala de uma coisa enorme e a outra de uma coisa miudinha. Qual combina com a frase de cima?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jhv3et",
+  "texto": "Leia o texto de novo, devagar. Procure o fim da palavra: é ele que conta o tamanho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_hre3nk",
+  "texto": "Olhe de novo: rainha, galinha, vizinha e farinha terminam parecido, mas não falam de coisa pequena. Tire essas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ysq9ui",
+  "texto": "Conte as casinhas e diga a palavra em voz alta. O fim dela você já usou muitas vezes neste caderno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1hx5jca",
+  "texto": "A coisa de que a palavra fala é pequena ou é grande? O fim da palavra conta isso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xgl8wb",
+  "texto": "Compare as três da mesma família e ponha em fila: a menor, a de sempre e a maior.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jfqmrb",
+  "texto": "Leia só o fim da palavra. Ele é o fim do pequeno, o do grande, ou não é nem um nem outro?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nbcaer",
+  "texto": "Tape o fim da palavra com o dedo e leia só o começo. Que palavra sobra?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rgu58w",
+  "texto": "Pense primeiro na coisa, depois no fim que ela precisa ganhar. Vale qualquer palavra de verdade.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ikyini",
+  "texto": "Olhe o fim da palavra e compare com o exemplo de cada linha do cartaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1uyr6yc",
+  "texto": "Casinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1gszy0n",
+  "texto": "Anelzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_no1ggp",
+  "texto": "Gatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_h9uumg",
+  "texto": "Florzinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zgxt1a",
+  "texto": "Mesinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ojweyh",
+  "texto": "Papelzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16zw19a",
+  "texto": "Portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_x4k3qc",
+  "texto": "Bolinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1t189ty",
+  "texto": "Livrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1hboz2v",
+  "texto": "Copinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_wqeuc0",
+  "texto": "Sapatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2x8g63",
+  "texto": "Casa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ut3mxx",
+  "texto": "Casarão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1wxsei",
+  "texto": "Livrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nhtr51",
+  "texto": "Livro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_160dbhl",
+  "texto": "Janelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_13chu0h",
+  "texto": "Panelão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_v19wnn",
+  "texto": "Prato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2vzryp",
+  "texto": "Mesa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_14gklxb",
+  "texto": "Cadeirão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_s69mtb",
+  "texto": "Escreva a palavra usando o teclado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_18yh929",
+  "texto": "Um sapo bem pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ou5e7",
+  "texto": "Um sapo bem grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1sg5kxd",
+  "texto": "Um gato bem pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rwugnz",
+  "texto": "Um gato bem grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vpee3m",
+  "texto": "Um bolo bem pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_k3h030",
+  "texto": "Um bolo bem grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_m2fqma",
+  "texto": "Cachorro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_19xmqdb",
+  "texto": "Elefante.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ooaoiu",
+  "texto": "Pássaro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_pjiiza",
+  "texto": "Cobra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cqusj5",
+  "texto": "Girafa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_mdntgn",
+  "texto": "Folha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_otz94u",
+  "texto": "Botão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1637by4",
+  "texto": "Panela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2t539p",
+  "texto": "Anel.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_mno3bn",
+  "texto": "Funil.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jknese",
+  "texto": "A casa mais pequena das três.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1sgqisn",
+  "texto": "A casa do meio: o tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1e6wuaz",
+  "texto": "A casa maior das três.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_17me35h",
+  "texto": "O livro mais fino dos três.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cmpruf",
+  "texto": "O livro do meio: o tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nt7y5x",
+  "texto": "O livro maior dos três.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1gvr16q",
+  "texto": "Você chegou ao fim! Agora uma curiosidade para levar: nem todo grandão termina em ÃO. Existe colheraça, que é uma colher enorme. Existe fogaréu, que é um fogo enorme. E existe mesona, que é uma mesa enorme. Procure outros por aí e traga para a aula.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1d9s73k",
+  "texto": "Folha pronta! Muito bem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_y3hc1d",
+  "texto": "O filhote do leão é o…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_9nnyll",
+  "texto": "O filhote do gato é o…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1sa9im4",
+  "texto": "O filhote do rato é o…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1n2yaa7",
+  "texto": "O filhote do urso é o…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_6r5pfd",
+  "texto": "O filhote do sapo é o…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_mve68x",
+  "texto": "Uma casa pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tz4bv",
+  "texto": "Uma mesa pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_4zsywh",
+  "texto": "Um livro pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zecppu",
+  "texto": "Um carro pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1h1di70",
+  "texto": "Uma janela pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zfdhdy",
+  "texto": "Uma panela pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_j5ivl5",
+  "texto": "Uma porta pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_t1u754",
+  "texto": "Uma cadeira pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_152q1d8",
+  "texto": "Um copo pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_lbtrlz",
+  "texto": "Um prato pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1dh9sgp",
+  "texto": "Um anel pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1bdtsi2",
+  "texto": "Um botão pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_bgv96v",
+  "texto": "Um funil pequeno é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_wnyrjx",
+  "texto": "Uma folha pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1kbghba",
+  "texto": "Uma flor pequena é uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1voc2a4",
+  "texto": "Um gato grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_iahaxo",
+  "texto": "Um sapo grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1j3mn4v",
+  "texto": "Um bolo grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_51tbpb",
+  "texto": "Um livro grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_72dzo9",
+  "texto": "Um rato grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_l5ggkc",
+  "texto": "Um carro grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_13ke2bs",
+  "texto": "Uma porta grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_11t2gxu",
+  "texto": "Um copo grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yijr2h",
+  "texto": "Um prato grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_u3n46f",
+  "texto": "Uma panela grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vuyaax",
+  "texto": "Um sapato grande é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_12mpm1l",
+  "texto": "O bebê dorme numa cama bem pequena: uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rogah",
+  "texto": "A Bia ganhou um carro de brinquedo: um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1l8ritk",
+  "texto": "No jardim nasceu uma flor bem miúda: uma…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_13d1erv",
+  "texto": "O gato da vizinha ainda é filhote: é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_hrn4t1",
+  "texto": "A vovó guardou o café numa panela pequena: numa…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_l2nex",
+  "texto": "O livro de bolso é pequeno: é um…",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1hv29ld",
+  "texto": "A turma comeu um bolão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1mrzbvh",
+  "texto": "A turma comeu um bolinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1sab6hk",
+  "texto": "O zelador abriu o portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_fmeqdw",
+  "texto": "O zelador abriu a portinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_th85en",
+  "texto": "Apareceu um ratão na tela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_21tgcz",
+  "texto": "Apareceu um ratinho na tela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_fd6lce",
+  "texto": "Coube todo mundo no mesão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_k8odoi",
+  "texto": "Coube todo mundo na mesinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ngzgp4",
+  "texto": "O palhaço calçou um sapatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1m5trlw",
+  "texto": "O palhaço calçou um sapatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_10oe484",
+  "texto": "O menino pediu um copão de suco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_et71ns",
+  "texto": "O menino pediu um copinho de suco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jwtc9y",
+  "texto": "Gaveta das palavras que só ganharam o INHO.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rwdy12",
+  "texto": "Gaveta das palavras que precisaram do Z.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_wf1enm",
+  "texto": "Gaveta do grandão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_uggxb1",
+  "texto": "Gaveta do pequenininho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1thigul",
+  "texto": "Gaveta do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_104ef97",
+  "texto": "O filhote do gato é o… Sete casinhas. Comece pelo nome do bicho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1b6449c",
+  "texto": "O filhote do rato é o… Sete casinhas. O fim é igual ao da palavra de cima.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_60z0fb",
+  "texto": "O filhote do urso é o… Sete casinhas. Troque o O do fim pelo fim do pequenininho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ahnvjh",
+  "texto": "O filhote do sapo é o… Sete casinhas. Fale bem devagar e escute o fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_12wq9ll",
+  "texto": "Um gato grande é um… Cinco casinhas. O fim é o mesmo de todo grandão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_v934nt",
+  "texto": "Um sapo grande é um… Cinco casinhas. Troque o O do fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_15qds8q",
+  "texto": "Um bolo grande é um… Cinco casinhas. Diga em voz alta e escute o fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1gdmmza",
+  "texto": "Um livro grande é um… Seis casinhas: esta palavra é uma letra mais comprida.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ve11oz",
+  "texto": "Um rato grande é um… Cinco casinhas. Você já viu este bicho na folha 4.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1rmlpsy",
+  "texto": "Uma casa pequena é uma… Sete casinhas. Diga a palavra devagar e escute o fim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_rqownu",
+  "texto": "Uma bola pequena é uma… Sete casinhas. Termina do mesmo jeito que a de cima.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1j0o700",
+  "texto": "Um livro pequeno é um… Oito casinhas. Repare que o O do meio vira I.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ot77wv",
+  "texto": "Uma panela pequena é uma… Nove casinhas: é a palavra mais comprida desta folha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_t0nzo9",
+  "texto": "Um gato pequeno é um… Sete casinhas. Você já escreveu esta palavra na folha 6.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lh38di",
+  "texto": "gatinho, gato,… Falta o maior dos três. Cinco casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1j2fnln",
+  "texto": "…, casa, casarão Falta o menor dos três. Sete casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_bc27yf",
+  "texto": "livrinho,…, livrão Falta o do meio: o tamanho de sempre. Cinco casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lpfimm",
+  "texto": "panelinha, panela,… Falta o maior. Sete casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lbzwxb",
+  "texto": "…, mesa, mesão Falta o menor. Sete casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1en6wtt",
+  "texto": "O menino tem um gato pequeno. O menino tem um… Sete casinhas. É o pequenininho do bicho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cs690b",
+  "texto": "A escola tem uma porta grande. A escola tem um… Seis casinhas. É o grandão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_sprwev",
+  "texto": "A Ana leu um livro pequeno. A Ana leu um… Oito casinhas. Repare que o O do meio vira I.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jkb2v3",
+  "texto": "Na cozinha tem uma panela grande. Na cozinha tem um… Sete casinhas. É o grandão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1k9u54q",
+  "texto": "No vaso nasceu uma flor pequena. No vaso nasceu uma… Nove casinhas, e esta pede o Z.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ear15n",
+  "texto": "gatão Quatro casinhas: tire o fim de grandão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1tno8ol",
+  "texto": "casinha Quatro casinhas: tire o fim de pequenininho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1nc1iea",
+  "texto": "livrão Cinco casinhas. Cuidado: volta uma letra que tinha sumido.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_949577",
+  "texto": "panelinha Seis casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1teny8q",
+  "texto": "portão Cinco casinhas.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_prig1l",
+  "texto": "Toque numa figura do lado esquerdo e depois na palavra do lado direito.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16hwwfp",
+  "texto": "Caderno novo! Escreva o seu nome e toque em Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xhniz0",
+  "texto": "Algumas palavras pedem um Z antes do fim. Diga as duas em voz alta: só uma existe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1rlpkvc",
+  "texto": "Ligue cada figura ao seu pequenininho. Três delas pedem o Z: preste atenção.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zq0bve",
+  "texto": "Leia a palavra. Ela só ganhou o INHO, ou precisou de um Z antes? Leve para a gaveta certa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_63a3qy",
+  "texto": "Cuidado! Algumas palavras terminam igualzinho e não falam de coisa pequena: rainha não é uma rã pequena. Marque só as verdadeiras e toque em Conferir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_a6ql1k",
+  "texto": "Agora ao contrário: a coisa é grande. A palavra também ganha um fim, outro fim. Toque nele.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_c6rgw5",
+  "texto": "Mais seis do grandão. Diga cada palavra em voz alta antes de escolher.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_11prsvg",
+  "texto": "Agora escreva o grandão. O fim dele é sempre o mesmo, com o til em cima.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1tmakeu",
+  "texto": "Agora são três tamanhos do mesmo desenho: o pequeno, o de sempre e o grande. Leve cada palavra ao seu.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_lnt1tj",
+  "texto": "Cada linha diz uma palavra e pede um tamanho. Leia com atenção: ora pede o pequeno, ora o grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_12hvo0n",
+  "texto": "Cada linha tem os três tamanhos e um está faltando. Leia os dois que estão lá e escreva o que falta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2jt2cv",
+  "texto": "Olhe os dois desenhos. Um é pequeno, o outro é grande. Toque no nome do pequeno.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1vng4pa",
+  "texto": "Agora a palavra entra dentro de uma frase inteira. Leia tudo e escolha a que cabe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1dgs83l",
+  "texto": "As duas frases são quase iguais: só uma palavra muda. Toque na que fala do grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1j4mt69",
+  "texto": "A primeira frase diz o tamanho com duas palavras. Escreva a palavra que faz o mesmo sozinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jkqc8s",
+  "texto": "Leia o texto e toque nas palavras do pequenininho. Depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nb34k4",
+  "texto": "Agora o contrário: toque nas palavras do grandão. Depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vvigkc",
+  "texto": "Cuidado com as parecidas! Toque só nas palavras do pequenininho. Depois confira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_5uzduq",
+  "texto": "Ache na grade o pequenininho de cada palavra: toque na primeira letra e depois na última.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ne3fjh",
+  "texto": "Agora os grandões. Na grade as palavras estão sem o til: procure PORTAO, não portão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tbrm0a",
+  "texto": "Toque numa pista, escute e escreva a palavra do tamanho que ela pede.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1d26syq",
+  "texto": "Leia a palavra. Ela fala de uma coisa pequena ou de uma coisa grande? Leve para a gaveta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lgxq7q",
+  "texto": "Agora o contrário: os mesmos desenhos, e você toca no nome do grande.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_lh8a48",
+  "texto": "Agora são três gavetas. A mesma palavra aparece nos três tamanhos: separe cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nh4ymh",
+  "texto": "As mesmas três gavetas, com palavras misturadas. Leia com calma antes de levar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_17ap6l4",
+  "texto": "Agora é ao contrário de tudo o que você fez: a palavra já vem com tamanho, e você acha a do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_gurlmi",
+  "texto": "Agora o caminho de volta: leia o tamanho e escreva a palavra do tamanho de sempre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_kz1vo3",
+  "texto": "Agora a palavra é sua. Pense numa coisa de verdade e escreva o nome dela no tamanho que a folha pede.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1oauzi3",
+  "texto": "Você já sabe fazer tudo isto. Agora os nomes: leve cada palavra para a linha dela no cartaz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1c3wuf0",
+  "texto": "Cada palavra tem o seu desenho. Puxe a palavra até a figura, ou toque na palavra e depois na figura.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_usv3zm",
+  "texto": "O filhote é o pequenininho do bicho. Toque no nome do filhote de cada um.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1iek119",
+  "texto": "Do lado esquerdo estão os bichos. Do direito, o nome dos filhotes. Toque num e depois no outro para ligar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_14o1rnp",
+  "texto": "As casinhas dizem quantas letras tem a palavra. Toque nelas e escreva, ou use o teclado de verdade.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_avmp4j",
+  "texto": "Repare: para dizer que a coisa é pequena, a palavra ganha um fim novo. Toque na palavra que preenche a frase.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1qrpoz4",
+  "texto": "Mais seis. Antes de tocar, diga a palavra em voz alta com o fim novo e escute se soa certo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tchflw",
+  "texto": "Você já escolheu o pequenininho. Agora escreva você mesmo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_nokbpv",
+  "texto": "Andorinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cmhnot",
+  "texto": "Anelinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2wk6a3",
+  "texto": "Bola.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_otgs12",
+  "texto": "Bolão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_x4k3l6",
+  "texto": "Bolinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2wk6f9",
+  "texto": "Bolo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1oav926",
+  "texto": "Botãoinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1oyd3ok",
+  "texto": "Botãozinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ltrz9p",
+  "texto": "Cachorrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1l6u3aq",
+  "texto": "Cadeira.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ok1ddp",
+  "texto": "Cadeirinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2x84hx",
+  "texto": "Cama.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lokw16",
+  "texto": "Caminha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lpqtd0",
+  "texto": "Camona.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1k6buqj",
+  "texto": "Campainha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lysyth",
+  "texto": "Carrão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1c57xmx",
+  "texto": "Carrinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_pfls1y",
+  "texto": "Carro.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_180g1p5",
+  "texto": "Cobrinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_pjt1sr",
+  "texto": "Copão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2xd388",
+  "texto": "Copo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ejtz16",
+  "texto": "Elefantinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_f52qrn",
+  "texto": "Espinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_xcwjhs",
+  "texto": "Farinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2u06e4",
+  "texto": "Flor.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_bjkfjm",
+  "texto": "Florinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1336qa2",
+  "texto": "Florzão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16c3k9f",
+  "texto": "Folhazinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_13lu3wo",
+  "texto": "Folhinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1g2iiwj",
+  "texto": "Funilinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1cz2y1",
+  "texto": "Funilzinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_i6o98v",
+  "texto": "Galinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_mujaol",
+  "texto": "Gatão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2uezfa",
+  "texto": "Gato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jy58da",
+  "texto": "Girafinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1vcg752",
+  "texto": "Janela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_kgftyj",
+  "texto": "Janelão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2vg1hq",
+  "texto": "Leão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_qm62tw",
+  "texto": "Leãozinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2vcs7g",
+  "texto": "Leoa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1gjbt5r",
+  "texto": "Madrinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_oallbw",
+  "texto": "Mesão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_kg1vhs",
+  "texto": "Mesona.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1x59l48",
+  "texto": "Panelazinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_k47k8j",
+  "texto": "Panelinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_111svqh",
+  "texto": "Passarinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_k3fxm6",
+  "texto": "Patinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vk26id",
+  "texto": "Pinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vfqs1f",
+  "texto": "Porta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_gjxaho",
+  "texto": "Portinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_tqkxps",
+  "texto": "Pratão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1rmms8s",
+  "texto": "Pratinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_plj34m",
+  "texto": "Rainha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_z78y8w",
+  "texto": "Ratão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1ad0iss",
+  "texto": "Ratinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_37vy6b",
+  "texto": "Rato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zrrpol",
+  "texto": "Sapão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1m33z6k",
+  "texto": "Sapatinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_181h06r",
+  "texto": "Sapato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_wvcccp",
+  "texto": "Sapinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_38iifa",
+  "texto": "Sapo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_t29cxf",
+  "texto": "Ursão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_175iiv3",
+  "texto": "Ursinho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3171rk",
+  "texto": "Urso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_jnqsgw",
+  "texto": "Vizinha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vq5syg",
+  "texto": "Primeiro pegue uma canetinha ali em cima. Depois toque na palavra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_gp2a7y",
+  "texto": "Escreva uma coisa da sua casa no pequenininho.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1q6bfa2",
+  "texto": "Escreva um bicho no grandão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1bcv8xf",
+  "texto": "Como se chama o sapo pequeno?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3k9alf",
+  "texto": "Como se chama o gato pequeno?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zapw8g",
+  "texto": "Como se chama o bolo pequeno?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yucime",
+  "texto": "Como se chama o sapato pequeno?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1nk29uc",
+  "texto": "Você já sabe que o pequeno é o sapinho. E o grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1at6r0k",
+  "texto": "Você já sabe que o pequeno é o gatinho. E o grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1skdj3r",
+  "texto": "Você já sabe que o pequeno é o bolinho. E o grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1atbnl",
+  "texto": "Você já sabe que o pequeno é o sapatinho. E o grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_je8d32",
+  "texto": "Gato. E quando é grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1skixeb",
+  "texto": "Casa. E quando é pequena?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_18hdzsd",
+  "texto": "Livro. E quando é grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_w0h5zo",
+  "texto": "Flor. E quando é pequena?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3jtafo",
+  "texto": "Panela. E quando é grande?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1uwyww",
+  "texto": "Sapo. E quando é pequeno?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_pq1yxa",
+  "texto": "Quase! Tente de novo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_69id6q",
+  "texto": "O bolo da festa era ENORME.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_19uqc1t",
+  "texto": "O portão do pátio é bem GRANDE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_aqb8q9",
+  "texto": "O rato do desenho era ENORME.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16om1qt",
+  "texto": "A mesa da cozinha é bem GRANDE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_81qna4",
+  "texto": "O sapato do palhaço é ENORME.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_txajam",
+  "texto": "O copo do suco é bem GRANDE.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_qqiw6i",
+  "texto": "Primeiro toque numa palavra ali embaixo. Depois toque na gaveta dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3t1m",
+  "texto": "O",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_314s3b",
+  "texto": "Tonho",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hmm5",
+  "texto": "um",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_g6c1re",
+  "texto": "portãozinho",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yiw0w7",
+  "texto": "azul",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_ijky6b",
+  "texto": "Dentro",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_375pbt",
+  "texto": "tem",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_375q9o",
+  "texto": "uma",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_kg37yo",
+  "texto": "mesinha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3t1c",
+  "texto": "e",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yis7l2",
+  "texto": "duas",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1l6u3cf",
+  "texto": "cadeiras",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yiyn04",
+  "texto": "mora",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hmis",
+  "texto": "No",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1c0ccpr",
+  "texto": "quintal",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_n9ysxv",
+  "texto": "cachorrinho",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2puq38",
+  "texto": "dorme",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hmiy",
+  "texto": "na",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_zw49mt",
+  "texto": "sombra",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yj2w1e",
+  "texto": "numa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lzqxei",
+  "texto": "casinha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_375jzj",
+  "texto": "bem",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_134rmn2",
+  "texto": "pequena",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_mg6nhn",
+  "texto": "frente",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hmxi",
+  "texto": "Zé",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_16378lb",
+  "texto": "panelão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hm6c",
+  "texto": "de",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yjchd4",
+  "texto": "sopa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yiyo5n",
+  "texto": "meio",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hm68",
+  "texto": "da",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yiyopr",
+  "texto": "mesa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2t2dew",
+  "texto": "abriu",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2wk9mw",
+  "texto": "bolão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1jklub5",
+  "texto": "chocolate",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1kmro6k",
+  "texto": "cachorro",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2tvi74",
+  "texto": "festa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_375cwj",
+  "texto": "era",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_m2ftn3",
+  "texto": "cachorrão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vbyfwi",
+  "texto": "peludo",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_vfqovk",
+  "texto": "portão",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_yj01g5",
+  "texto": "casa",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1pp78gt",
+  "texto": "cozinha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2y3ydu",
+  "texto": "havia",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3t1g",
+  "texto": "A",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_z7qjlk",
+  "texto": "rainha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_fnv4jy",
+  "texto": "vizinha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_sgdi78",
+  "texto": "trouxe",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_oorffi",
+  "texto": "farinha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_11lfsec",
+  "texto": "bolinho",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_17rl1p3",
+  "texto": "gatinho",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_io1v59",
+  "texto": "dormiu",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_3hm6m",
+  "texto": "do",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_1lz6h7q",
+  "texto": "castelo",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_17llqkh",
+  "texto": "galinha",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_2wkq86",
+  "texto": "botou",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_sb1k64",
+  "texto": "ovinho",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "gp_swkns7",
+  "texto": "Narração ligada!",
+  "voz": "pt-BR-AntonioNeural"
+ }
+]

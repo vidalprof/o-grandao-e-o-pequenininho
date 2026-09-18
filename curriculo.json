@@ -1,0 +1,168 @@
+{
+ "ano": 2,
+ "componente": "Língua Portuguesa",
+ "rede": "Currículo da Educação Básica do Sistema Municipal de Ensino de Blumenau",
+ "documento": "_curriculo/blumenau.txt",
+ "conceitos": [],
+ "fora_do_curriculo": [],
+ "degrau": 7,
+ "evidencia": [
+  "Jogado do começo ao fim no navegador, item por item, antes de publicar.",
+  "Um jogador automático resolve cada item pela resposta declarada e confere se a folha fecha.",
+  "Leiaute medido em 6 tamanhos de tela, nas 35 folhas: nenhuma figura cortada e nenhum alvo de toque menor que 40 px.",
+  "Toda tela é narrada com voz real, e cada opção de resposta tem o seu alto-falante.",
+  "As 35 folhas nasceram do crivo de 40 folhas de papel reais, em `_sequencias/POTE-AUMDIM2.md`, lidas uma a uma.",
+  "As 37 figuras foram recortadas das próprias folhas colhidas (d02, d12, d14, d34, d39 e d40); nenhuma é gerada por IA.",
+  "A habilidade citada no dossiê é conferida, palavra por palavra, contra o currículo da rede."
+ ],
+ "observacoes": [
+  "O CONCEITO VEM POR ÚLTIMO: até a folha 34 as palavras são 'o pequenininho' e 'o grandão'. Os nomes DIMINUTIVO e AUMENTATIVO só aparecem no cartaz da folha 35.",
+  "A ARMADILHA DO -INHA TEM FOLHA PRÓPRIA (13) E VOLTA NO TEXTO (25). Duas folhas de papel colhidas (d01 e d23) põem RAINHA, FARINHA, GALINHA e MADRINHA ao lado de PRINCESINHA — e sem esse contraste a criança aprende a regra pela TERMINAÇÃO e generaliza errado. É o único ponto do caderno em que a resposta certa é 'esta não é'.",
+  "UMA FOLHA DA COLHEITA ENSINA ERRADO E FICOU FORA, declarada: a d15 manda 'COMPLETE AS FRASES COM O AUMENTATIVO' e as quatro frases dela são de diminutivo ('uma bola pequena é uma ___').",
+  "O -INHO E O -ZINHO SÃO BLOCOS SEPARADOS (7-9 e 10-12) porque a colheita quase não cobre o segundo: só a d14 e a d20 trazem ANELZINHO, FUNILZINHO e BOTÃOZINHO. O que o currículo pede e o papel não dá entra declarado.",
+  "OS TEXTOS DAS FOLHAS 23, 24 E 25 SÃO NOSSOS. Os que a colheita trouxe têm autoria (o poema da d29 é de Karla Valéria; o da d35, de Bartolomeu Campos Queirós): o gesto entra, o texto não.",
+  "O `conceitos` está VAZIO de propósito, e isso NÃO é 'passou': em Língua Portuguesa o documento da rede vem em faixas, sem cabeçalho por ano, e medir no documento inteiro aprovaria conteúdo de outro ano.",
+  "A CITAÇÃO É A FRASE INTEIRA DA HABILIDADE, lida na tabela do PDF da rede (2º ANO · Todos os campos de atuação · Análise linguística/semiótica · Morfologia), onde ela vem quebrada em três linhas e entrelaçada com a coluna dos gêneros textuais: 'Formar o aumentativo e o diminutivo de' / 'palavras com os sufixos:' / '-ão e -inho/-zinho.'"
+ ],
+ "objetivos": [
+  {
+   "objetivo": "Reconhecer o pequeno e o grande na figura e na palavra",
+   "folhas": [
+    1,
+    2,
+    3
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Formar o diminutivo pela ideia de filhote",
+   "folhas": [
+    4,
+    5,
+    6
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Formar o diminutivo com o sufixo -inho e -inha",
+   "folhas": [
+    7,
+    8,
+    9
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Formar o diminutivo com o sufixo -zinho e -zinha",
+   "folhas": [
+    10,
+    11,
+    12
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Distinguir o diminutivo das palavras que só terminam parecido",
+   "folhas": [
+    13,
+    25
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Formar o aumentativo com o sufixo -ão",
+   "folhas": [
+    14,
+    15,
+    16
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Reconhecer os três graus: diminutivo, normal e aumentativo",
+   "folhas": [
+    17,
+    18,
+    19
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Usar o grau dentro da frase",
+   "folhas": [
+    20,
+    21,
+    22
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Achar o diminutivo e o aumentativo dentro de um texto",
+   "folhas": [
+    23,
+    24
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Achar as palavras dos dois graus nas grades e na cruzadinha",
+   "folhas": [
+    26,
+    27,
+    28
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Classificar as palavras pelo grau",
+   "folhas": [
+    29,
+    30,
+    31
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Voltar do grau para a palavra no tamanho de sempre",
+   "folhas": [
+    32,
+    33
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  },
+  {
+   "objetivo": "Escrever palavras suas nos dois graus e nomear o que aprendeu",
+   "folhas": [
+    34,
+    35
+   ],
+   "pratica": "Análise linguística/semiótica (alfabetização)",
+   "objeto": "Morfologia",
+   "habilidade": "HABILIDADE: \"Formar o aumentativo e o diminutivo de palavras com os sufixos: -ão e -inho/-zinho.\""
+  }
+ ]
+}
